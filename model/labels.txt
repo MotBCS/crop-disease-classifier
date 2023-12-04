@@ -1,0 +1,7 @@
+0 Healthy Tomato
+1 Tomato Early Blight
+2 Tomato Late Blight
+3 Tomato Mosaic Virus
+4 Tomato Leaf Mold
+5 Tomato Septoria Leaf Spot
+6 Tomato Yellow Leaf Curl
